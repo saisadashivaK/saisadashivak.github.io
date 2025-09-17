@@ -4,12 +4,12 @@ body {
 .page {
   display: flex;
   justify-content: center;
-  max-width: 70vw;
+  
   margin-left: 10vw;
 }
 
 .page-content {
-
+  max-width: 70vw;
 }
 .nav {
   
