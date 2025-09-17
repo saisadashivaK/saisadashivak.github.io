@@ -1,0 +1,16 @@
+body {
+  bg-color: #dadcf2;
+}
+.page {
+  display: flex;
+  justify-content: center;
+  max-width: 90vw;
+  margin-left: 10vw;
+}
+
+.page-content {
+
+}
+.nav {
+  
+}
