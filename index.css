@@ -4,7 +4,7 @@ body {
 .page {
   display: flex;
   justify-content: center;
-  max-width: 90vw;
+  max-width: 70vw;
   margin-left: 10vw;
 }
 
